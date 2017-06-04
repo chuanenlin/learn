@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/David/Google Drive/AngelHack HK '17/shootinggame/Assets/_Scene.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARshooter", "ARshooter.csproj", "{FCA1E988-8DED-1F2E-46A3-E55EFFDD2487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARshooter.Editor", "ARshooter.Editor.csproj", "{08861A44-0F1A-A77D-2BEF-7FCF9C6BC124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA1E988-8DED-1F2E-46A3-E55EFFDD2487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA1E988-8DED-1F2E-46A3-E55EFFDD2487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA1E988-8DED-1F2E-46A3-E55EFFDD2487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA1E988-8DED-1F2E-46A3-E55EFFDD2487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08861A44-0F1A-A77D-2BEF-7FCF9C6BC124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08861A44-0F1A-A77D-2BEF-7FCF9C6BC124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08861A44-0F1A-A77D-2BEF-7FCF9C6BC124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08861A44-0F1A-A77D-2BEF-7FCF9C6BC124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 30783acf0ce69704dbf1ec2169503eb7
+timeCreated: 1496484068
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dmgSound: {fileID: 8300000, guid: 95c5121390d728f4bb5085c4cfde8bcd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

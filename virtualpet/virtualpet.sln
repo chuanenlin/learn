@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "virtualpet", "virtualpet.csproj", "{294E2F3A-803C-BC18-4C8A-E65440EFC98F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "virtualpet.Editor", "virtualpet.Editor.csproj", "{E80363A9-4EE7-9B3F-3CDE-5F6A4501F28C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294E2F3A-803C-BC18-4C8A-E65440EFC98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294E2F3A-803C-BC18-4C8A-E65440EFC98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294E2F3A-803C-BC18-4C8A-E65440EFC98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294E2F3A-803C-BC18-4C8A-E65440EFC98F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E80363A9-4EE7-9B3F-3CDE-5F6A4501F28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80363A9-4EE7-9B3F-3CDE-5F6A4501F28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80363A9-4EE7-9B3F-3CDE-5F6A4501F28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80363A9-4EE7-9B3F-3CDE-5F6A4501F28C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
